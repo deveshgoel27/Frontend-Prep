@@ -1,0 +1,1 @@
+In this file it has a React.js Major  concept of understanding memoization using LAZY and SUSPENSE.
